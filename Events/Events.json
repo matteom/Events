@@ -1,0 +1,27 @@
+[
+	{
+		"title": "Book club",
+		"date": 1591454840,
+		"participants": 12
+	},
+	{
+		"title": "Makeup session",
+		"date": 1591642800,
+		"participants": 25
+	},
+	{
+		"title": "Cooking class",
+		"date": 1591704000,
+		"participants": 30
+	},
+	{
+		"title": "City walk",
+		"date": 1591999200,
+		"participants": 11
+	},
+	{
+		"title": "Friday drinks",
+		"date": 1591999200,
+		"participants": 49
+	}
+]
